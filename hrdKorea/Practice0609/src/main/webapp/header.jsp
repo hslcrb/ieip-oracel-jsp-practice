@@ -4,17 +4,17 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>z
+<title>Header</title>
 </head>
 <body>
-<header style="background-color:lightblue">
-<h1 style="text-align:center">쇼핑몰 회원관리 프로그램 v1.0</h1>
-<h3 style="background-color:blue">
-	회원등록&emsp;&emsp;&emsp;
-	회원목록조회/수정&emsp;&emsp;&emsp;
-	회원매출조회&emsp;&emsp;&emsp;
-	홈으로
-</h3>
+
+	<h1 align="center"> 일정관리 프로그램_연습문제</h1>
+	<h3 style="background-color: aqua">
+		<a href=""> 일정등록</a>&emsp;&emsp;
+		<a href=""> 회원현황</a>&emsp;&emsp;
+		<a href=""> 일정현황</a>&emsp;&emsp;
+		<a href=""> 홈으로</a>&emsp;&emsp;
+	</h3>
 </header>
 
 </body>
