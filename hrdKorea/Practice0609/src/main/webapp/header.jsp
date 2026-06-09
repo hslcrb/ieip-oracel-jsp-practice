@@ -9,8 +9,8 @@
 <body>
 
 <header>
-	<h1 align="center" style="background-color: yellow;"> 일정관리 프로그램_연습문제</h1>
-	<h3 style="background-color: aqua">
+	<h1 align="center" style="background-color: plum"> 일정관리 프로그램_연습문제</h1>
+	<h3 style="background-color: lavender">&emsp;
 		<a href=""> 일정등록</a>&emsp;&emsp;
 		<a href=""> 회원현황</a>&emsp;&emsp;
 		<a href=""> 일정현황</a>&emsp;&emsp;
