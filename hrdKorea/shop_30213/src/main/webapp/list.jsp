@@ -34,7 +34,7 @@
 			ResultSet rs = pstmt.executeQuery();
 			while(rs.next()){
 		%>
-	<tr align="center">							<%-- 피자 시키면 오는 스파게티 마냥 꼬아진 미트 "스파게티 코드" --%>   <%-- 프로그래밍산업기사(구 정보처리산업기사) --%>
+	<tr align="center">							<%-- 피자 시키면 오는 스파게티 마냥 꼬아진 미트 "스파게티 코드" --%>   
 		<td> <%=rs.getString("custno")%></td>
 		<td> <%=rs.getString("custname")%></td>
 		<td> <%=rs.getString("phone")%></td>
