@@ -8,9 +8,9 @@
 </head>
 <body>
 
-<header style="background-color: plum">
+<header style="background-color: #2dcf48">
 <h1 style="text-align:center">쇼핑몰 회원관리 프로그램 v1.0</h1>
-<h3 style="background-color: lavender">
+<h3 style="background-color: #0ba325">
 	회원등록&emsp;&emsp;
 	회원목록조회수정&emsp;&emsp;
 	회원매출조회&emsp;&emsp;
