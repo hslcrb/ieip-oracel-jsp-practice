@@ -6,7 +6,6 @@
 <meta charset="UTF-8">
 <title>Footer</title>
 </head>
-<body>
 
 <footer style="background-color: #acfad2; position: fixed; bottom: 0; width: 100%">
 	<h3 align="center">
@@ -14,5 +13,4 @@
 	</h3>
 </footer>
 
-</body>
 </html>
