@@ -7,7 +7,10 @@
 <title>Header</title>
 </head>
 <body>
-<h1 align="center" style="bold" style="background-color: lightblue"> 일정 관리 프로그럄_연습문제</h1>
-<h3 style="background-color"></h3>
+
+<header style="background-color: lightgreen">
+<h1 align="center"> 일정관리 프로그램_연습문제</h1>
+</header>
+
 </body>
 </html>
