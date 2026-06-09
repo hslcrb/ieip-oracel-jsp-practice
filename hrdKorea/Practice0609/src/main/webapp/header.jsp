@@ -5,6 +5,17 @@
 <head>
 <meta charset="UTF-8">
 <title>Index</title>
+<style>
+    /* 오직 드래그 스타일만 적용 */
+    ::selection {
+        background-color: #11bd86;
+        color: #e0fff5;
+    }
+    ::-moz-selection {
+        background-color: #11bd86;
+        color: #e0fff5;
+    }
+</style>
 </head>
 <body>
 
