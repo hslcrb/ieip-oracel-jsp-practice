@@ -1,0 +1,4 @@
+<%-- DB와 연동 위해. 한글 문자 깨짐(인코딩 에러) 예방 위해 --%>
+
+<%@ include file="db.jsp" %>
+<%request.setCharacterEncoding("utf-8"); %>
