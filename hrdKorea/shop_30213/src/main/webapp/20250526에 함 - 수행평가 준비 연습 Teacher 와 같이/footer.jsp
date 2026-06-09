@@ -7,10 +7,10 @@
 <title>Footer</title>
 </head>
 <body>
-<h2>
-	Copyright
-</h2>
+
+<footer style="background-color: fuchsia; position: fixed; bottom: 0; width: 100%">
+
+</footer>
+
 </body>
 </html>
-
-<%-- Java JSP 주석은 이렇게 쓴다. --%>
