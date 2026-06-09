@@ -8,7 +8,7 @@
 </head>
 <body>
 
-<header style="background-color: #2dcf48">
+<header style="background-color: #55f26f">
 <h1 style="text-align:center">쇼핑몰 회원관리 프로그램 v1.0</h1>
 <h3 style="background-color: #0ba325">
 	회원등록&emsp;&emsp;
