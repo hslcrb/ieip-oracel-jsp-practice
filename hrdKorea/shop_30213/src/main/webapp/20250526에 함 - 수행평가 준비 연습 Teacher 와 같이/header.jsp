@@ -11,7 +11,10 @@
 <header style="background-color: lightgreen">
 	<h1 align="center"> 일정관리 프로그램_연습문제</h1>
 	<h3 style="background-color: aqua">
-	
+		<a href=""> 일정등록</a>&emsp;&emsp;&emsp;
+		<a href=""> 회원현황</a>&emsp;&emsp;&emsp;
+		<a href=""> 일정현황</a>&emsp;&emsp;&emsp;
+		<a href=""> 홈으로</a>&emsp;&emsp;&emsp;
 	</h3>
 </header>
 
