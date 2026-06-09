@@ -8,6 +8,7 @@
 </head>
 <body>
 
+<header>
 	<h1 align="center"> 일정관리 프로그램_연습문제</h1>
 	<h3 style="background-color: aqua">
 		<a href=""> 일정등록</a>&emsp;&emsp;
