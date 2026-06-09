@@ -8,6 +8,7 @@
 </head>
 <body>
 <jsp:include page="header.jsp"></jsp:include>
+<h3 align="center"> 수행평가 빅데이터정보과 3학년 2반 13번 이호세</h3>
 
 <jsp:include page="footer.jsp"></jsp:include>
 </body>
