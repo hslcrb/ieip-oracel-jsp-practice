@@ -24,3 +24,6 @@
 <jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>
+
+<%-- There's place in your heart And I Know that it is love--%>
+<%-- Heal the world Make the better place--%>
