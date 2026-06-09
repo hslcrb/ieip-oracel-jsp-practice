@@ -7,6 +7,7 @@
 <title>Header</title>
 </head>
 <body>
+<jsp:include page="header.jsp"></jsp:include>
 
 <header style="background-color: lightgreen">
 	<h1 align="center"> 일정관리 프로그램_연습문제</h1>
@@ -18,5 +19,6 @@
 	</h3>
 </header>
 
+<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>
