@@ -21,12 +21,12 @@
 	</tr>
 	<tr>
 		<td align="center">일정일자</td>
-		<td><input type="text" name="do_date">
+		<td><input type="text" name="do_date">(ex: 25년 1월 1일 > 20250101)
 		</td>
 	</tr>
 	<tr>
 		<td align="center">회원번호</td>
-		<td><input type="text" name="fk_member">
+		<td><input type="text" name="fk_member">(ex: M0001)
 		</td>
 	</tr>
 	<tr>
