@@ -13,10 +13,33 @@
 <h1 align="center">일정등록</h1>
 
 <form name="frm" method="post" action="joinok.jsp">
+<table border="1" align="center">
+	<tr>
+		<td align="center">일련번호(자동발생)</td>
+		<td><input type="text" name="pk_schedule">
+		</td>
+	</tr>
+	<tr>
+		<td align="center">일정일자</td>
+		<td><input type="text" name="do_date">
+		</td>
+	</tr>
+	<tr>
+		<td align="center">회원번호</td>
+		<td><input type="text" name="fk_member">
+		</td>
+	</tr>
+	<tr>
+		<td align="center">일정메모</td>
+		<td><input type="text" name="do_memo">
+		</td>
+	</tr>
 
 
 
 
+
+</table>
 </form>
 
 
