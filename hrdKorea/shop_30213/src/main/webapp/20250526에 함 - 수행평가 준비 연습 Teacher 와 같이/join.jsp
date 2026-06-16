@@ -12,11 +12,17 @@
 <jsp:include page="header.jsp"></jsp:include>
 <h1 align="center">일정등록</h1>
 
+<%
+String sql = "select max(pk_schedule)+1 as pk_schedule from tbl_schedule ";
+PreparedStatement pstmt = con.prepareStatement(sql);
+ResultSet rs = pstmt.executeQuery();
+while(rs.next()){
+	%>
 <form name="frm" method="post" action="joinok.jsp">
 <table border="1" align="center">
 	<tr>
 		<td align="center">일련번호(자동발생)</td>
-		<td><input type="text" name="pk_schedule">
+		<td><input type="text" name="pk_schedule" value="<%=rs.getString("pk_schedule")"> %> ">
 		</td>
 	</tr>
 	<tr>
@@ -42,8 +48,9 @@
 	</tr>
 
 
-
-
+<%
+}
+%>
 </table>
 </form>
 
