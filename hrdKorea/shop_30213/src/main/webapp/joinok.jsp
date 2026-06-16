@@ -31,3 +31,6 @@ pstmt.executeUpdate();
 	alert('정상적으로 등록되었습니다.');
 	location.href="join.jsp"
 </script>
+
+<%-- Dreams are my reality --%>
+<%-- ... ~ Fantasy --%>
