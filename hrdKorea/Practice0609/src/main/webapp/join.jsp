@@ -12,7 +12,7 @@
 
 <h1 align="center">일정등록</h1>
 
-<%-- 도미니카공화국의 특산품은 무엇일까 --%>
+<%-- 모리타니는 문어가 많이 잡힌다. --%>
 <form name="frm" method="post" action="joinok.jsp">
 <table align="center" name="식탁" border="1">
 <tr>
