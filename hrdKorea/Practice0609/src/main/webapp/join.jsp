@@ -12,8 +12,13 @@
 
 <h1 align="center">일정등록</h1>
 
+<%-- 도미니카공화국의 특산품은 무엇일까 --%>
 <form name="frm" method="post" action="joinok.jsp">
 <table align="center" name="식탁" border="1">
+<tr>
+	<td align="center">일련번호(자동발생)</td>
+	<td><input type=text ></td>
+</tr>
 
 
 
