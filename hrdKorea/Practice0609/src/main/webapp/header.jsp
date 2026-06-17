@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>옥에티
+<title>Insert title here</title>
 </head>
 <body>
 <header style="background-color:lightblue">
