@@ -4,7 +4,7 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Insert title here</title>
+<title>header.jsp</title>
 </head>
 <body>
 <header style="background-color:lightblue">
