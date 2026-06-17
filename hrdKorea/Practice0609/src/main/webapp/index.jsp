@@ -4,26 +4,20 @@
 <html>
 <head>
 <meta charset="UTF-8">
-<title>Index</title>
-<style>
-    /* 오직 드래그 스타일만 적용 */
-    ::selection {
-        background-color: #11bd86;
-        color: #e0fff5;
-    }
-    ::-moz-selection {
-        background-color: #11bd86;
-        color: #e0fff5;
-    }
-</style>
+<title>index</title>
 </head>
 <body>
 <jsp:include page="header.jsp"></jsp:include>
-<h3 align="center"> 수행평가 빅데이터정보과 3학년 2반 13번 이호세</h3>
-	<h1 align="center"> Spaghetti is Flying! </h1>
+<h3 align="center">쇼핑몰 회원관리 프로그램</h3>
+쇼핑몰 회원정보와 회원매출정보 데이터베이스를 구축하고 회원관리 프로그램을 작성하는 프로그램이다.<br>
+프로그램 작성 순서<br>
+1. 회원정보 테이블을 생성한다.<br>
+2. 매출정보 테이블을 생성한다. <br>
+3. 회원정보, 매출정보 테이블에 제시한 문제지의 참조데이터를 추가 생성한다.<br>
+4. 회원정보 입력 화면프로그램을 작성한다.<br>
+5. 회원정보 조회 프로그램을 작성한다.<br>
+6. 회원매출정보 조회 프로그램을 작성한다.<br><br>
+
 <jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>
-
-<%-- There's place in your heart And I Know that it is love--%>
-<%-- Heal the world Make the better place--%>
