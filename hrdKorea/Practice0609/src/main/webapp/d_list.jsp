@@ -9,6 +9,18 @@
 <title>Insert title here</title>
 </head>
 <body>
+<jsp:include page="header.jsp"></jsp:include>
+<h1 align="center">일정현황</h1>
+<table border="1" align="center">
+	<tr>
+		<td>일정코드 </td>
+		<td>일정일자 </td>
+		<td>일정메모 </td>
+		<td>회원코드 </td>
+		<td>회원명 </td>
+	</tr>
+</table>
 
+<jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>
