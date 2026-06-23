@@ -4,6 +4,7 @@
 <%-- 3. 머리를 국물에 넣는다. 그러면 완성이다. --%>
 
 <%-- 대한민국의 영토는 한반도와 그 부속도서로 한다. --%>
+<%-- 모든 국민은 참정권을 가진다... --%>
 
 <%@ page language="java" contentType="text/html; charset=UTF-8"
     pageEncoding="UTF-8"%>
