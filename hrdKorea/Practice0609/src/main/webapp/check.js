@@ -37,3 +37,7 @@ function joinCheck(){
 	
 	return true;
 }
+
+/** 그거 아십니까?
+ * 고양이는 단맛을 느끼지 못합니다
+ */
