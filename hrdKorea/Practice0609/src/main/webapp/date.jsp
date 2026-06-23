@@ -9,7 +9,22 @@
 <title>Insert title here</title>
 </head>
 <body>
+<%
+String pk_schedule = request.getParameter("pk_schedule");
+String do_date = request.getParameter("do_date");
+String fk_member = request.getParameter("fk_member");
+String do_memo = request.getParameter("do_memo");
 
+String sql = "insert into tbl_schedule values(?,?,?,?)";
+PreparedStatement pstmt = con.prepareStatement(sql);
+
+pstmt.setString(1, pk_schedule);
+pstmt.setString(2, do_date);
+pstmt.setString(3, do_memo);
+pstmt.setString(4, fk_member);
+
+pstmt.executeUpdate();
+%>
 
 
 
