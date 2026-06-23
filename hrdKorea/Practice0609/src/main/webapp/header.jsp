@@ -6,7 +6,7 @@
 <meta charset="UTF-8">
 <title>header.jsp</title>
 </head>
-<body>
+<body>  
 <header style="background-color:lightblue">
 <h1 style="text-align:center">일정 관리 프로그램_연습문제</h1>
 <h3 style="background-color:blue">
