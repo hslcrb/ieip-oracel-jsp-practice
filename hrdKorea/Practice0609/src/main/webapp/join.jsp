@@ -9,6 +9,7 @@
 <title>join.jsp</title>
 </head>
 <body>
+<script type="text/javascript" src="check.js"></script>
 <jsp:include page="header.jsp"></jsp:include>
 <h1 align="center">일정등록</h1>
 <%
