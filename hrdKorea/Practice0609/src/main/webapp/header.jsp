@@ -7,7 +7,7 @@
 <title>header.jsp</title>
 </head>
 <body>
-<header style="background-color:lightblue">
+<header style="background-color:lavender">
 <h1 style="text-align:center">일정 관리 프로그램_연습문제</h1>
 <h3 style="background-color:blue">
 	회원등록&emsp;&emsp;&emsp;
