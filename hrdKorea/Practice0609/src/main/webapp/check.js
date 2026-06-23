@@ -17,6 +17,7 @@ function chk(){
 }
 
 
+
 /** I HAVE A PEN, I HAVE AN APLLE. OH! APPLE PEN. */
 /** I HAVE A PEN, I HAVE AN PINEAPLLE. OH! PINEAPPLE PEN. */
 /** APPLE PNE, PINEAPPLE PEN. OH!*/
