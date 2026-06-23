@@ -18,7 +18,7 @@ PreparedStatement pstmt = con.prepareStatement(sql);
 ResultSet rs = pstmt.executeQuery();
 while(rs.next()){
 %>
-
+<%-- 스파게티 코드 --%>
 <form name="frm" method="post" action="joinok.jsp">
 <table align="center" name="식탁" border="1">
 <tr>
@@ -54,3 +54,4 @@ while(rs.next()){
 <jsp:include page="footer.jsp"></jsp:include>
 </body>
 </html>
+
