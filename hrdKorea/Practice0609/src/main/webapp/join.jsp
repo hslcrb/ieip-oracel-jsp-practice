@@ -19,7 +19,7 @@ ResultSet rs = pstmt.executeQuery();
 while(rs.next()){
 %>
 <%-- 스파게티 코드 --%>
-<form name="frm" method="post" action="joinok.jsp">
+<form name="frm" method="post" action="">
 <table align="center" name="식탁" border="1">
 <tr>
 	<td align="center">일련번호(자동발생)</td>
