@@ -40,7 +40,7 @@ while(rs.next()){
 </tr>
 <tr>
 	<td colspan="2" align="center">
-	<input type="submit" value="등록" onclick="return chk();">
+	<input type="submit" value="등록" onclick="return chk()">
 	<input type="button" value="조회" onclick="location.href='list.jsp'">
 	</td>
 </tr>
