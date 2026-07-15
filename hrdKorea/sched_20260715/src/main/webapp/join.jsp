@@ -38,6 +38,9 @@
 			<input type="text" name="do_memo">
 		</td>
 	</tr>
+	<tr>
+	
+	</tr>
 
 
 </table>
