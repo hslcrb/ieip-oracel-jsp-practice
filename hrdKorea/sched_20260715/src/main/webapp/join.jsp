@@ -15,8 +15,10 @@
 <form name="frm" method="post" action="">
 <table border="1" align="center">
 	<tr>
-		<td></td>
-		<td></td>
+		<td>일련번호(자동발생)</td>
+		<td>
+			<input type="text" name="pk_schedule">
+		</td>
 	</tr>
 
 
