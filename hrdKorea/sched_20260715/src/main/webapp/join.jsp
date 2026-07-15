@@ -40,7 +40,8 @@
 	</tr>
 	<tr>
 		<td colspan="2" align="center">
-		
+			<input type="submit" value="등록" onclick="return chk()"> <%-- 아직 함수 없음. chk. --%>
+			<input type="button" value="조회" onclick="location.href='index.jsp'"> <%-- 아직 파일 없어서 대체로 index.jsp로 함. --%>
 		</td>
 	</tr>
 
