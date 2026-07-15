@@ -21,21 +21,21 @@
 		</td>
 	</tr>
 	<tr>
-		<td>일련번호(자동발생)</td>
+		<td>일정일자</td>
 		<td>
-			<input type="text" name="pk_schedule">
+			<input type="text" name="do_date">
 		</td>
 	</tr>
 	<tr>
-		<td>일련번호(자동발생)</td>
+		<td>회원번호</td>
 		<td>
-			<input type="text" name="pk_schedule">
+			<input type="text" name="fk_member">
 		</td>
 	</tr>
 	<tr>
-		<td>일련번호(자동발생)</td>
+		<td>일정메모</td>
 		<td>
-			<input type="text" name="pk_schedule">
+			<input type="text" name="do_memo">
 		</td>
 	</tr>
 
