@@ -12,7 +12,11 @@
 <jsp:include page="header.jsp"></jsp:include>
 <h1 align="center">일정등록</h1>
 
-<form name="frm" method="post" action=""></form>
+<form name="frm" method="post" action="">
+
+
+
+</form>
 
 <jsp:include page="footer.jsp"></jsp:include>
 </body>
