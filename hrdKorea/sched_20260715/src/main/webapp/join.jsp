@@ -56,6 +56,10 @@ while(rs.next()){
 			<input type="button" value="조회" onclick="location.href='index.jsp'"> <%-- 아직 파일 없어서 대체로 index.jsp로 함. --%>
 		</td>
 	</tr>
+	
+<%	
+}
+%>
 
 
 </table>
