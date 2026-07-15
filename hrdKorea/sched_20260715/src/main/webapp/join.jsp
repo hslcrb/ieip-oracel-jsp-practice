@@ -13,9 +13,11 @@
 <h1 align="center">일정등록</h1>
 
 <form name="frm" method="post" action="">
+<table>
 
 
 
+</table>
 </form>
 
 <jsp:include page="footer.jsp"></jsp:include>
