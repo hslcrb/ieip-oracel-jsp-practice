@@ -21,19 +21,19 @@
 		</td>
 	</tr>
 	<tr>
-		<td>일정일자</td>
+		<td align="center">일정일자</td>
 		<td>
 			<input type="text" name="do_date">(ex: 25년 1월 1일 > 20250101)
 		</td>
 	</tr>
 	<tr>
-		<td>회원번호</td>
+		<td align="center">회원번호</td>
 		<td>
 			<input type="text" name="fk_member">(ex: M0001)
 		</td>
 	</tr>
 	<tr>
-		<td>일정메모</td>
+		<td align="center">일정메모</td>
 		<td>
 			<input type="text" name="do_memo">
 		</td>
