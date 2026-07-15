@@ -29,7 +29,7 @@ while(rs.next()){
 	<tr>
 		<td align="center">일련번호(자동발생)</td>
 		<td>
-			<input type="text" name="pk_schedule">
+			<input type="text" name="pk_schedule" value=<%=rs.getString("pk_schedule")%> > 
 		</td>
 	</tr>
 	<tr>
