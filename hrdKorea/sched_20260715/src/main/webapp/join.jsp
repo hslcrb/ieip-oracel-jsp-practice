@@ -20,6 +20,24 @@
 			<input type="text" name="pk_schedule">
 		</td>
 	</tr>
+	<tr>
+		<td>일련번호(자동발생)</td>
+		<td>
+			<input type="text" name="pk_schedule">
+		</td>
+	</tr>
+	<tr>
+		<td>일련번호(자동발생)</td>
+		<td>
+			<input type="text" name="pk_schedule">
+		</td>
+	</tr>
+	<tr>
+		<td>일련번호(자동발생)</td>
+		<td>
+			<input type="text" name="pk_schedule">
+		</td>
+	</tr>
 
 
 </table>
