@@ -13,8 +13,9 @@
 <h1 align="center">일정등록</h1>
 
 <form name="frm" method="post" action="">
-<table>
-
+<table border="1" align="center">
+	<tr>
+	</tr>
 
 
 </table>
