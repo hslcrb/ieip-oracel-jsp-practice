@@ -15,6 +15,8 @@
 <form name="frm" method="post" action="">
 <table border="1" align="center">
 	<tr>
+		<td></td>
+		<td></td>
 	</tr>
 
 
