@@ -13,6 +13,16 @@
 <h1 align="center">일정등록</h1>
 
 <%-- 자동 발생 로직 --%>
+<%
+String sql = "select max(pk_schedule)+1 as pk_schedule from tbl_schedule ";
+PreparedStatement pstmt = con.prepareStatement(sql);
+ResultSet rs = pstmt.executeQuery();
+while(rs.next()){
+%>
+<%-- Spaghetti Code... --%>
+<%	
+}
+%>
 
 <form name="frm" method="post" action="">
 <table border="1" align="center">
