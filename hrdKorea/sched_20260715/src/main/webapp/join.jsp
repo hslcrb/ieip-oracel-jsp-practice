@@ -15,7 +15,7 @@
 <form name="frm" method="post" action="">
 <table border="1" align="center">
 	<tr>
-		<td>일련번호(자동발생)</td>
+		<td align="center">일련번호(자동발생)</td>
 		<td>
 			<input type="text" name="pk_schedule">
 		</td>
